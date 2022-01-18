@@ -1,0 +1,12 @@
+{
+  "name": "registry-contract",
+  "version": "1.0.0",
+  "scripts": {
+    "deploy:smilo": "truffle deploy --network smilo"
+  },
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.4.0",
+    "ganache-core": "^2.13.2",
+    "truffle": "^5.3.9"
+  }
+}

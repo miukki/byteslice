@@ -1,0 +1,5 @@
+node_modules
+build
+cmd/poc/byteslice/circuit/mimc.pk
+cmd/poc/byteslice/circuit/mimc.vk
+cmd/poc/byteslice/circuit/mimc.r1cs

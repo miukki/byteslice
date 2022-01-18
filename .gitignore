@@ -1,0 +1,13 @@
+.DS_Store
+.vault_password.txt
+
+.todo
+.idea
+bin/abigen
+
+node_modules/
+client/src/contracts/
+cmd/poc/signing/files/
+!cmd/poc/signing/files/testdocument.pdf
+cmd/poc/sha3/files/
+!cmd/poc/sha3/files/testdocument.pdf
